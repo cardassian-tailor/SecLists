@@ -17,11 +17,6 @@ wget -c https://github.com/cardassian-tailor/SecLists.git \
   && rm -f SecList.zip
 ```
 
-**Git (Small)**
-```
-git clone --depth 1 https://github.com/danielmiessler/SecLists.git
-```
-
 **Git (Complete)**
 ```
 git clone https://github.com/cardassian-tailor/SecLists.git
