@@ -12,7 +12,7 @@ This project is maintained by [Daniel Miessler](https://danielmiessler.com/), [J
 
 **Zip**
 ```
-wget -c https://github.com/danielmiessler/SecLists/archive/master.zip -O SecList.zip \
+wget -c https://github.com/cardassian-tailor/SecLists.git \
   && unzip SecList.zip \
   && rm -f SecList.zip
 ```
@@ -24,12 +24,7 @@ git clone --depth 1 https://github.com/danielmiessler/SecLists.git
 
 **Git (Complete)**
 ```
-git clone https://github.com/danielmiessler/SecLists.git
-```
-
-**Kali Linux** ([Tool Page](https://tools.kali.org/password-attacks/seclists))
-```
-apt -y install seclists
+git clone https://github.com/cardassian-tailor/SecLists.git
 ```
 
 - - -
